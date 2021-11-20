@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1001,
+        "nombre": "ASC Service",
+        "direccion": "Av. Mitre 1353",
+        "provincia": " Vicente Lopez, Bs As"
+    },
+    {
+        "id": 1002,
+        "nombre": "Servitec",
+        "direccion": "Ordoñez 5168",
+        "provincia": "CABA"
+    },
+    {
+        "id": 1003,
+        "nombre": "Service DeWalt",
+        "direccion": "Av. Rivadavia 1568",
+        "provincia": "CABA"
+    },
+    {
+        "id": 1004,
+        "nombre": "Wacker Respuestos",
+        "direccion": "Vidal 1651",
+        "provincia": "CABA"
+    },
+    {
+        "id": 1005,
+        "nombre": "Protec",
+        "direccion": "Mosconi 8761",
+        "provincia": "CABA"
+    }
+]
